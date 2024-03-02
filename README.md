@@ -1,0 +1,2 @@
+# starfrek
+star detect
